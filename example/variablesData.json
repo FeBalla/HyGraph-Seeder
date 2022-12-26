@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Autograph",
+    "description": "You must complete a 3x3 board with the information of other people, this is achieved by beating them in a duel of cachipu00fan. If they beat you, you must write your data on their board.",
+    "objectives": "Social interaction, getting to know a group of people, breaking the ice.",
+    "imgUrl": "https://bitacoras-ljyr.s3.amazonaws.com/imagenes/1.png"
+  },
+  {
+    "name": "Lotere of names",
+    "description": "After the game 'Autograph', names are drawn at random among the players as in a bingo, and if we have the data of that person on our board, we mark it. Finally, the winner is the one who completes the board first.",
+    "objectives": "Meet a group of people, break the ice.",
+    "imgUrl": "https://bitacoras-ljyr.s3.amazonaws.com/imagenes/2.png"
+  }
+]

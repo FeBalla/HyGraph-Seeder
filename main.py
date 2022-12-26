@@ -4,8 +4,8 @@ import json
 
 # PARAMETERS
 model_name = "Game"
-variable_types_path = "variableTypes.json"
-variables_data_path = "variablesData.json"
+variable_types_path = "./example/variableTypes.json"
+variables_data_path = "./example/variablesData.json"
 
 
 if __name__ == "__main__":
