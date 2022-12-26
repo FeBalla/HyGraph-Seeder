@@ -9,9 +9,9 @@ variables_data_path = "variablesData.json"
 
 
 if __name__ == "__main__":
-  with open(variable_types_path) as f:
+  with open(variable_types_path, encoding="utf-8") as f:
     variable_types = json.load(f)
-  with open(variables_data_path) as f:
+  with open(variables_data_path, encoding="utf-8") as f:
     variables_data = json.load(f)
 
   config = dotenv_values(".env")
